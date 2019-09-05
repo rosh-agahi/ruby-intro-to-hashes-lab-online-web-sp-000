@@ -5,6 +5,7 @@ end
 def actor
 my_hash = Hash.new
 my_hash["name"] = "Dwayne The Rock Johnson"
+my_hash
 end
 
 def monopoly
