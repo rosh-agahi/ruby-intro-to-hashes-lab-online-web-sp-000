@@ -3,8 +3,8 @@ my_hash = Hash.new
 end
 
 def actor
-my_hash = Hash.new
-my_hash["name"] = "Dwayne The Rock Johnson"
+actor_hash = Hash.new
+actor_hash
 my_hash
 end
 
