@@ -3,9 +3,7 @@ my_hash = Hash.new
 end
 
 def actor
-actor_hash = Hash.new
-actor_hash[:name] << "Dwayne The Rock Johnson"
-actor_hash
+{:name => "Dwayne The Rock Johnson"}
 end
 
 def monopoly
